@@ -1,0 +1,18 @@
+SW-DlteC-Rack-01(config-if)#switchport mode ?      
+  access   Set trunking mode to ACCESS unconditionally
+  dynamic  Set trunking mode to dynamically negotiate access or trunk mode
+  trunk    Set trunking mode to TRUNK unconditionally
+
+SW-DlteC-Rack-01(config-if)#switchport mode access 
+SW-DlteC-Rack-01(config-if)#switchport access vlan 10
+SW-DlteC-Rack-01(config-if)#switchport voice vlan 2050
+SW-DlteC-Rack-01(config-if)#end
+SW-DlteC-Rack-01#
+
+
+Comandos 
+
+conf t
+interface gi1/0/47
+switchport mode access
+switchport access vlan 300

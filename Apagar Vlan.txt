@@ -1,0 +1,4 @@
+no vlan num-vlan 
+
+por exemplo, para apagar a VLAN 10 basta digitar
+no vlan 10

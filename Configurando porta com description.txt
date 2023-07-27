@@ -1,0 +1,20 @@
+SW-DlteC-Rack-01#conf t
+Enter configuration commands, one per line.  End with CNTL/Z.
+SW-DlteC-Rack-01(config)#interface fastEthernet 0/15
+SW-DlteC-Rack-01(config-if)#duplex ?
+  auto  Enable AUTO duplex configuration
+  full  Force full duplex operation
+  half  Force half-duplex operation
+
+SW-DlteC-Rack-01(config-if)#duplex full 
+SW-DlteC-Rack-01(config-if)#speed ?
+  10    Force 10 Mbps operation
+  100   Force 100 Mbps operation
+  auto  Enable AUTO speed configuration
+
+SW-DlteC-Rack-01(config-if)#speed 100
+
+SW-DlteC-Rack-01(config-if)#description ?
+  LINE  Up to 240 characters describing this interface
+
+SW-DlteC-Rack-01(config-if)#description Porta de acesso

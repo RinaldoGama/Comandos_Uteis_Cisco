@@ -1,0 +1,3 @@
+Mostrará modelo, versão, imagem do firmware e o tempo desde a inicialização do dispositivo
+
+sh version

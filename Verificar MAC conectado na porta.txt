@@ -1,0 +1,2 @@
+Mostra o mac do item que esta conectado na porta
+show mac-address-table int g1/0/23

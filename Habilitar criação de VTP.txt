@@ -1,0 +1,4 @@
+No switch core que não permite criar vlan
+vtp primary
+
+liberará a permissão de criação de vlan.

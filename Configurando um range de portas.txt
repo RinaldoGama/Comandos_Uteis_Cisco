@@ -1,0 +1,5 @@
+SW-DlteC-Rack-01(config)#interface range f0/1 - 48 
+SW-DlteC-Rack-01(config-if-range)#speed auto 
+SW-DlteC-Rack-01(config-if-range)#duplex auto 
+SW-DlteC-Rack-01(config-if-range)#end
+SW-DlteC-Rack-01#

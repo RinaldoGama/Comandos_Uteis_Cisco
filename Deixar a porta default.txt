@@ -1,0 +1,1 @@
+default interface g1/0/24

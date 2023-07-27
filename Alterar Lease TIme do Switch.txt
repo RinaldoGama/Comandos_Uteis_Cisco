@@ -1,0 +1,8 @@
+sh running-config
+Ver nome e ip da rede desejada
+
+conf t
+ip dhcp pool Positivo_alunos
+lease Dia Horas Minutos
+
+

@@ -1,0 +1,2 @@
+Mostrando a cpu e filtrando as informações
+sh processes cpu | include CPU

@@ -1,0 +1,1423 @@
+................................................................................                                                                             ....Image passed digital signature verification
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@                                                                             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+File "flash:/c2960x-universalk9-mz.150-2a.EX5.bin" uncompressed and installed, e                                                                             ntry point: 0x3000
+executing...
+
+              Restricted Rights Legend
+
+Use, duplication, or disclosure by the Government is
+subject to restrictions as set forth in subparagraph
+(c) of the Commercial Computer Software - Restricted
+Rights clause at FAR sec. 52.227-19 and subparagraph
+(c) (1) (ii) of the Rights in Technical Data and Computer
+Software clause at DFARS sec. 252.227-7013.
+
+           cisco Systems, Inc.
+           170 West Tasman Drive
+           San Jose, California 95134-1706
+
+
+
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.0(2a)EX5,                                                                              RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Mon 16-Feb-15 08:16 by prod_rel_team
+HULC:Collect Entropy thread starting on box...
+Initializing flashfs...
+Using driver version 3 for media type 1
+mifs[7]: 12 files, 1 directories
+mifs[7]: Total bytes     : 1806336
+mifs[7]: Bytes used      : 834560
+mifs[7]: Bytes available : 971776
+mifs[7]: mifs fsck took 1 seconds.
+mifs[7]: Initialization complete.
+
+mifs[8]: 2 files, 1 directories
+mifs[8]: Total bytes     : 3870720
+mifs[8]: Bytes used      : 1213440
+mifs[8]: Bytes available : 2657280
+mifs[8]: mifs fsck took 0 seconds.
+mifs[8]: Initialization complete.
+
+mifs[9]: 5 files, 1 directories
+mifs[9]: Total bytes     : 258048
+mifs[9]: Bytes used      : 8192
+mifs[9]: Bytes available : 249856
+mifs[9]: mifs fsck took 0 seconds.
+mifs[9]: Initialization complete.
+
+mifs[10]: 5 files, 1 directories
+mifs[10]: Total bytes     : 258048
+mifs[10]: Bytes used      : 8192
+mifs[10]: Bytes available : 249856
+mifs[10]: mifs fsck took 0 seconds.
+mifs[10]: Initialization complete.
+
+mifs[11]: 9 files, 2 directories
+mifs[11]: Total bytes     : 122185728
+mifs[11]: Bytes used      : 19370496
+mifs[11]: Bytes available : 102815232
+mifs[11]: mifs fsck took 1 seconds.
+mifs[11]: Initialization complete.
+
+...done Initializing flashfs.
+
+
+FIPS: Flash Key Check : Begin
+FIPS: Flash Key Check : End, Not Found, FIPS Mode Not Enabled
+
+POST: MA BIST : Begin
+POST: MA BIST : End, Status Passed
+
+POST: TCAM BIST : Begin
+POST: TCAM BIST : End, Status Passed
+
+POST: ACT2 Authentication : Begin
+POST: ACT2 Authentication : End, Status Passed
+extracting front_end/front_end_ucode_info (43 bytes)
+ Software version is different so extracting
+ the whole bundle
+
+Waiting for Stack Master Election...
+POST: Inline Power Controller Tests : Begin
+POST: Inline Power Controller Tests : End, Status Passed
+
+POST: Thermal, Fan Tests : Begin
+POST: Thermal, Fan Tests : End, Status Passed
+
+POST: PortASIC Stack Port Loopback Tests : Begin
+POST: PortASIC Stack Port Loopback Tests : End, Status Passed
+
+POST: PortASIC Port Loopback Tests : Begin
+POST: PortASIC Port Loopback Tests : End, Status Passed
+
+POST: EMAC Loopback Tests : Begin
+POST: EMAC Loopback Tests : MAC Loopback Passed
+POST: EMAC Loopback Tests : PHY Loopback Passed
+POST: EMAC Loopback Tests : End, Status Passed
+
+Election Complete
+Switch 1 booting as Master
+Waiting for Port download...Complete
+Initializing Port Extension Feature Support...
+
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+cisco WS-C2960X-24PS-L (APM86XXX) processor (revision F0) with 524288K bytes of                                                                              memory.
+Processor board ID TSP2115AAJS
+Last reset from power-on
+1 Virtual Ethernet interface
+1 FastEthernet interface
+28 Gigabit Ethernet interfaces
+The password-recovery mechanism is enabled.
+
+512K bytes of flash-simulated non-volatile configuration memory.
+Base ethernet MAC Address       : 70:D3:79:44:4B:00
+Motherboard assembly number     : 73-16694-06
+Power supply part number        : 341-100323-01
+Motherboard serial number       : TSP21150395
+Power supply serial number      : LOM210700JQ
+Model revision number           : F0
+Motherboard revision number     : A0
+Model number                    : WS-C2960X-24PS-BR
+Daughterboard assembly number   : 73-14200-03
+Daughterboard serial number     : TSP21110591
+System serial number            : TSP2115AAJS
+Top Assembly Part Number        : 800-102072-02
+Top Assembly Revision Number    : A0
+Version ID                      : V02
+Daughterboard revision number   : A0
+Hardware Board Revision Number  : 0x19
+
+
+Switch Ports Model              SW Version            SW Image
+------ ----- -----              ----------            ----------
+*    1 28    WS-C2960X-24PS-L   15.0(2a)EX5           C2960X-UNIVERSALK9-M
+
+
+
+
+Press RETURN to get started!
+
+
+*Mar  1 00:00:14.791: Read env variable - LICENSE_BOOT_LEVEL =
+Mar 30 01:27:38.150: %IOS_LICENSE_IMAGE_APPLICATION-6-LICENSE_LEVEL: Module name                                                                              = c2960x_lanbase Next reboot level = lanbase and License = lanbase
+Nov  9 11:26:20.775:  in Switch 0. Cannot read pid from Flexstack module
+
+Nov  9 11:26:20.870: %HPAA:hpaa_port_bitmap_init:254:n_ports = 28, sizeof (**hpa                                                                             a_port_bitmap.bitlist_array) = 16
+
+Nov  9 11:27:04.277: %STACKMGR-4-SWITCH_ADDED: Switch 1 has been ADDED to the st                                                                             ack
+Nov  9 11:27:05.766: %LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan1, chan                                                                             ged state to down
+Nov  9 11:27:05.766: %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEtherne                                                                             t0, changed state to down
+Nov  9 11:27:07.360: %SPANTREE-5-EXTENDED_SYSID: Extended SysId enabled for type                                                                              vlan
+Nov  9 11:27:07.587: %DC-4-FILE_OPEN_WARNING: Not able to open flash:/dc_profile                                                                             _dir/dc_default_profiles.txt
+Nov  9 11:27:07.587: %DC-6-DEFAULT_INIT_INFO: Default Profiles DB not loaded.
+Nov  9 11:27:10.971: %SYS-5-CONFIG_I: Configured from memory by console
+Nov  9 11:27:11.055: %STACKMGR-5-SWITCH_READY: Switch 1 is READY
+Nov  9 11:27:11.055: %STACKMGR-4-STACK_LINK_CHANGE: Stack Port 1 Switch 1 has ch                                                                             anged to state DOWN
+Nov  9 11:27:11.055: %STACKMGR-4-STACK_LINK_CHANGE: Stack Port 2 Switch 1 has ch                                                                             anged to state DOWN
+Nov  9 11:27:11.352: %STACKMGR-5-MASTER_READY: Master Switch 1 is READY
+Nov  9 11:27:11.397: %USB_CONSOLE-6-MEDIA_RJ45: Console media-type is RJ45.
+Nov  9 11:27:11.422: %SYS-5-RESTART: System restarted --
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.0(2a)EX5,                                                                              RELEASE SOFTWARE (fc3)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Mon 16-Feb-15 08:16 by prod_rel_team
+Nov  9 11:27:11.453: %SSH-5-ENABLED: SSH 1.99 has been enabled
+Nov  9 11:27:12.921: %LINK-5-CHANGED: Interface FastEthernet0, changed state to                                                                              administratively down
+Nov  9 11:27:12.970: %LINK-5-CHANGED: Interface Vlan1, changed state to administ                                                                             ratively downFailed to generate persistent self-signed certificate.
+    Secure server will use temporary self-signed certificate.
+
+000SWT000>show running
+000SWT000>show runningconfig
+000SWT000>show runni
+000SWT000>show running
+000SWT000>show run
+000SWT000>show run
+000SWT000>show run
+000SWT000>enable
+000SWT000#show ru
+000SWT000#show running-config
+Building configuration...
+
+Current configuration : 1570 bytes
+!
+! No configuration change since last restart
+!
+version 15.0
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname 000SWT000
+!
+boot-start-marker
+boot-end-marker
+!
+!
+no aaa new-model
+switch 1 provision ws-c2960x-24ps-l
+!
+!
+!
+!
+
+000SWT000#show running-config
+Building configuration...
+
+Current configuration : 1570 bytes
+!
+! No configuration change since last restart
+!
+version 15.0
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname 000SWT000
+!
+boot-start-marker
+boot-end-marker
+!
+!
+no aaa new-model
+switch 1 provision ws-c2960x-24ps-l
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+spanning-tree extend system-id
+!
+!
+!
+!
+!
+!
+vlan internal allocation policy ascending
+!
+!
+!
+!
+!
+!
+interface FastEthernet0
+ no ip address
+ shutdown
+!
+interface GigabitEthernet1/0/1
+!
+interface GigabitEthernet1/0/2
+!
+interface GigabitEthernet1/0/3
+!
+interface GigabitEthernet1/0/4
+!
+interface GigabitEthernet1/0/5
+!
+interface GigabitEthernet1/0/6
+!
+interface GigabitEthernet1/0/7
+!
+interface GigabitEthernet1/0/8
+!
+interface GigabitEthernet1/0/9
+!
+interface GigabitEthernet1/0/10
+!
+interface GigabitEthernet1/0/11
+!
+interface GigabitEthernet1/0/12
+!
+interface GigabitEthernet1/0/13
+!
+interface GigabitEthernet1/0/14
+!
+interface GigabitEthernet1/0/15
+!
+interface GigabitEthernet1/0/16
+!
+interface GigabitEthernet1/0/17
+!
+interface GigabitEthernet1/0/18
+!
+interface GigabitEthernet1/0/19
+!
+interface GigabitEthernet1/0/20
+!
+interface GigabitEthernet1/0/21
+!
+interface GigabitEthernet1/0/22
+!
+interface GigabitEthernet1/0/23
+!
+interface GigabitEthernet1/0/24
+!
+interface GigabitEthernet1/0/25
+!
+interface GigabitEthernet1/0/26
+!
+interface GigabitEthernet1/0/27
+!
+interface GigabitEthernet1/0/28
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip http server
+ip http secure-server
+!
+!
+!
+!
+line con 0
+line vty 0 4
+ login
+line vty 5 15
+ login
+!
+end
+
+000SWT000#host
+000SWT000#hostname
+000SWT000#hostname 077SWT012
+           ^
+% Invalid input detected at '^' marker.
+
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#
+000SWT000#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+000SWT000(config)#
+000SWT000(config)#
+000SWT000(config)#
+000SWT000(config)#
+000SWT000(config)#
+000SWT000(config)#
+000SWT000(config)#hos
+000SWT000(config)#hostname #
+% Hostname contains one or more illegal characters.
+
+#(config)#
+Nov  9 11:31:45.886: %CNS-3-WARNING: CNS ID not changed: bad hostname -Process= "Exec", ipl= 0, pid= 195
+Nov  9 11:31:45.886: %CNS-3-WARNING: CNS ID not changed: bad hostname -Process= "Exec", ipl= 0, pid= 195
+Nov  9 11:31:45.886: %CNS-3-WARNING: CNS ID not changed: bad hostname -Process= "Exec", ipl= 0, pid= 195
+#(config)#
+#(config)#
+#(config)#
+#(config)#
+#(config)#
+#(config)#
+#(config)#
+#(config)#
+#(config)#
+#(config)#host
+#(config)#hostname 077SWT012
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#username admin privilege 15 secret 5 $1$HJoJ$GK72HegTebWOw0x$
+077SWT012(config)#no ip domain-lookup
+077SWT012(config)#ip domain-name positivo.local
+077SWT012(config)#spanning-tree mode rapid-pvst
+077SWT012(config)#spanning-tree extend system-id
+077SWT012(config)#ip ssh version 2
+077SWT012(config)#lldp run
+077SWT012(config)#ip default-gateway 172.25.158.129
+077SWT012(config)#no ip http server
+077SWT012(config)#no ip http secure-server
+077SWT012(config)#interface Vlan2010
+077SWT012(config-if)#
+Nov  9 11:38:09.221: %LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan2010, changed state to down
+077SWT012(config-if)#ip address 172.25.158.141 255.255.255.192
+077SWT012(config-if)#end
+077SWT012#
+Nov  9 11:39:10.916: %SYS-5-CONFIG_I: Configured from console by console
+077SWT012#wr
+Building configuration...
+[OK]
+077SWT012#show brief
+                ^
+% Invalid input detected at '^' marker.
+
+077SWT012#show brief vlan
+077SWT012#show brief vlan
+                ^
+% Invalid input detected at '^' marker.
+
+077SWT012#show vlan brief
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+1    default                          active    Gi1/0/1, Gi1/0/2, Gi1/0/3
+                                                Gi1/0/4, Gi1/0/5, Gi1/0/6
+                                                Gi1/0/7, Gi1/0/8, Gi1/0/9
+                                                Gi1/0/10, Gi1/0/11, Gi1/0/12
+                                                Gi1/0/13, Gi1/0/14, Gi1/0/15
+                                                Gi1/0/16, Gi1/0/17, Gi1/0/18
+                                                Gi1/0/19, Gi1/0/20, Gi1/0/21
+                                                Gi1/0/22, Gi1/0/23, Gi1/0/24
+                                                Gi1/0/25, Gi1/0/26, Gi1/0/27
+                                                Gi1/0/28
+10   VLAN0010                         active
+1002 fddi-default                     act/unsup
+1003 token-ring-default               act/unsup
+1004 fddinet-default                  act/unsup
+1005 trnet-default                    act/unsup
+077SWT012#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#vtp ?
+  domain     Set the name of the VTP administrative domain.
+  file       Configure IFS filesystem file where VTP configuration is stored.
+  interface  Configure interface as the preferred source for the VTP IP updater
+             address.
+  mode       Configure VTP device mode
+  password   Set the password for the VTP administrative domain
+  pruning    Set the administrative domain to permit pruning
+  version    Set the administrative domain to VTP version
+
+077SWT012(config)#vtp mode?
+mode
+
+077SWT012(config)#vtp mode ?
+  client       Set the device to client mode.
+  off          Set the device to off mode.
+  server       Set the device to server mode.
+  transparent  Set the device to transparent mode.
+
+077SWT012(config)#vtp mode cl
+077SWT012(config)#vtp mode client
+Setting device to VTP Client mode for VLANS.
+077SWT012(config)#interface Vlan2010
+077SWT012(config-if)#ip address 172.25.158.141 255.255.255.192
+077SWT012(config-if)#end
+077SWT012#w
+Nov  9 11:41:19.328: %SYS-5-CONFIG_I: Configured from console by consol
+077SWT012#show run
+077SWT012#show running-config
+Building configuration...
+
+Current configuration : 1899 bytes
+!
+! Last configuration change at 11:41:19 UTC Tue Nov 9 2021
+! NVRAM config last updated at 11:39:17 UTC Tue Nov 9 2021
+!
+version 15.0
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname 077SWT012
+!
+boot-start-marker
+boot-end-marker
+!
+!
+username admin privilege 15 secret 5 $1$HJoJ$GK72HegTebWOw0xkua5h4/
+no aaa new-model
+switch 1 provision ws-c2960x-24ps-l
+!
+!
+no ip domain-lookup
+ip domain-name positivo.local
+!
+!
+!
+!
+spanning-tree mode rapid-pvst
+spanning-tree extend system-id
+!
+!
+!
+!
+!
+!
+vlan internal allocation policy ascending
+!
+ip ssh version 2
+lldp run
+!
+!
+!
+!
+!
+interface FastEthernet0
+ no ip address
+ shutdown
+!
+interface GigabitEthernet1/0/1
+!
+interface GigabitEthernet1/0/2
+!
+interface GigabitEthernet1/0/3
+!
+interface GigabitEthernet1/0/4
+!
+interface GigabitEthernet1/0/5
+!
+interface GigabitEthernet1/0/6
+!
+interface GigabitEthernet1/0/7
+!
+interface GigabitEthernet1/0/8
+!
+interface GigabitEthernet1/0/9
+!
+interface GigabitEthernet1/0/10
+!
+interface GigabitEthernet1/0/11
+!
+interface GigabitEthernet1/0/12
+!
+interface GigabitEthernet1/0/13
+!
+interface GigabitEthernet1/0/14
+!
+interface GigabitEthernet1/0/15
+!
+interface GigabitEthernet1/0/16
+!
+interface GigabitEthernet1/0/17
+!
+interface GigabitEthernet1/0/18
+!
+interface GigabitEthernet1/0/19
+!
+interface GigabitEthernet1/0/20
+!
+interface GigabitEthernet1/0/21
+!
+interface GigabitEthernet1/0/22
+!
+interface GigabitEthernet1/0/23
+!
+interface GigabitEthernet1/0/24
+!
+interface GigabitEthernet1/0/25
+!
+interface GigabitEthernet1/0/26
+!
+interface GigabitEthernet1/0/27
+!
+interface GigabitEthernet1/0/28
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+interface Vlan2010
+ ip address 172.25.158.141 255.255.255.192
+!
+ip default-gateway 172.25.158.129
+no ip http server
+no ip http secure-server
+!
+!
+!
+!
+line con 0
+line vty 0 4
+ login
+line vty 5 15
+ login
+!
+end
+
+077SWT012#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#login ?
+  block-for   Set quiet-mode active time period
+  delay       Set delay between successive fail login
+  on-failure  Set options for failed login attempt
+  on-success  Set options for successful login attempt
+  quiet-mode  Set quiet-mode options
+
+077SWT012(config)#vty ?
+% Unrecognized command
+077SWT012(config)#wr
+                   ^
+% Invalid input detected at '^' marker.
+
+077SWT012(config)#end
+077SWT012#wr
+Nov  9 11:44:05.954: %SYS-5-CONFIG_I: Configured from console by console
+Building configuration...
+[OK]
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#confi t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#vty ?
+% Unrecognized command
+077SWT012(config)#vty login vty
+077SWT012(config)#vty login vty ?
+% Unrecognized command
+077SWT012(config)#login vt
+077SWT012(config)#login ?
+  block-for   Set quiet-mode active time period
+  delay       Set delay between successive fail login
+  on-failure  Set options for failed login attempt
+  on-success  Set options for successful login attempt
+  quiet-mode  Set quiet-mode options
+
+077SWT012(config)#login
+% Incomplete command.
+
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#enxit
+                    ^
+% Invalid input detected at '^' marker.
+
+077SWT012(config)#end
+077SWT012#exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+077SWT012 con0 is now available
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nov  9 11:44:55.796: %SYS-5-CONFIG_I: Configured from console by console
+077SWT012>
+077SWT012>
+077SWT012>
+077SWT012>exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+077SWT012 con0 is now available
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+077SWT012>confi t
+             ^
+% Invalid input detected at '^' marker.
+
+077SWT012>
+077SWT012>
+077SWT012>
+077SWT012>
+077SWT012>ena
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#confi t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#line vty
+077SWT012(config)#line vty 0 15
+077SWT012(config-line)#login
+077SWT012(config-line)#login lo
+077SWT012(config-line)#login local ?
+  <cr>
+
+077SWT012(config-line)#login local
+077SWT012(config-line)#trans
+077SWT012(config-line)#transport in
+077SWT012(config-line)#transport input tel
+077SWT012(config-line)#transport input ?
+  all     All protocols
+  none    No protocols
+  ssh     TCP/IP SSH protocol
+  telnet  TCP/IP Telnet protocol
+
+077SWT012(config-line)#transport input all
+077SWT012(config-line)#
+077SWT012(config-line)#
+077SWT012(config-line)#
+077SWT012(config-line)#
+077SWT012(config-line)#
+077SWT012(config-line)#
+077SWT012(config-line)#
+077SWT012(config-line)#end
+077SWT012#
+Nov  9 11:48:50.775: %SYS-5-CONFIG_I: Configured from console by console
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#wr
+Building configuration...
+[OK]
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#e
+% Ambiguous command:  "e"
+077SWT012#exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+077SWT012 con0 is now available
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+
+
+077SWT012>exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+077SWT012 con0 is now available
+
+
+
+
+
+Press RETURN to get started.
+
+
+
+
+
+
+
+
+
+077SWT012>
+077SWT012>
+077SWT012>
+077SWT012>
+077SWT012>config t
+             ^
+% Invalid input detected at '^' marker.
+
+077SWT012>
+077SWT012>
+077SWT012>
+077SWT012>en
+077SWT012>enable
+077SWT012#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#show run
+077SWT012(config)#show run
+                    ^
+% Invalid input detected at '^' marker.
+
+077SWT012(config)#exit
+077SWT012#sh
+Nov  9 11:51:35.471: %SYS-5-CONFIG_I: Configured from console by consoleow run
+077SWT012#show running-config
+Building configuration...
+
+Current configuration : 1953 bytes
+!
+! Last configuration change at 11:51:35 UTC Tue Nov 9 2021
+! NVRAM config last updated at 11:49:36 UTC Tue Nov 9 2021
+!
+version 15.0
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname 077SWT012
+!
+boot-start-marker
+boot-end-marker
+!
+!
+username admin privilege 15 secret 5 $1$HJoJ$GK72HegTebWOw0xkua5h4/
+no aaa new-model
+switch 1 provision ws-c2960x-24ps-l
+!
+!
+no ip domain-lookup
+ip domain-name positivo.local
+!
+!
+!
+!
+spanning-tree mode rapid-pvst
+spanning-tree extend system-id
+!
+!
+!
+!
+!
+!
+vlan internal allocation policy ascending
+!
+ip ssh version 2
+lldp run
+!
+!
+!
+!
+!
+interface FastEthernet0
+ no ip address
+ shutdown
+!
+interface GigabitEthernet1/0/1
+!
+interface GigabitEthernet1/0/2
+!
+interface GigabitEthernet1/0/3
+!
+interface GigabitEthernet1/0/4
+!
+interface GigabitEthernet1/0/5
+!
+interface GigabitEthernet1/0/6
+!
+interface GigabitEthernet1/0/7
+!
+interface GigabitEthernet1/0/8
+!
+interface GigabitEthernet1/0/9
+!
+interface GigabitEthernet1/0/10
+!
+interface GigabitEthernet1/0/11
+!
+interface GigabitEthernet1/0/12
+!
+interface GigabitEthernet1/0/13
+!
+interface GigabitEthernet1/0/14
+!
+interface GigabitEthernet1/0/15
+!
+interface GigabitEthernet1/0/16
+!
+interface GigabitEthernet1/0/17
+!
+interface GigabitEthernet1/0/18
+!
+interface GigabitEthernet1/0/19
+!
+interface GigabitEthernet1/0/20
+!
+interface GigabitEthernet1/0/21
+!
+interface GigabitEthernet1/0/22
+!
+interface GigabitEthernet1/0/23
+!
+interface GigabitEthernet1/0/24
+!
+interface GigabitEthernet1/0/25
+!
+interface GigabitEthernet1/0/26
+!
+interface GigabitEthernet1/0/27
+!
+interface GigabitEthernet1/0/28
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+interface Vlan2010
+ ip address 172.25.158.141 255.255.255.192
+!
+ip default-gateway 172.25.158.129
+no ip http server
+no ip http secure-server
+!
+!
+!
+!
+line con 0
+line vty 0 4
+ login local
+ transport input all
+line vty 5 15
+ login local
+ transport input all
+!
+end
+
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#confi t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#inte
+077SWT012(config)#interface g
+077SWT012(config)#interface gi
+077SWT012(config)#interface gigabitEthernet 1/0/24
+077SWT012(config-if)#swi
+077SWT012(config-if)#switchport mo
+077SWT012(config-if)#switchport mode tru
+077SWT012(config-if)#switchport mode trunk
+077SWT012(config-if)#swi
+077SWT012(config-if)#switchport tru
+077SWT012(config-if)#switchport trunk vl
+077SWT012(config-if)#switchport trunk ?
+  allowed  Set allowed VLAN characteristics when interface is in trunking mode
+  native   Set trunking native characteristics when interface is in trunking
+           mode
+  pruning  Set pruning VLAN characteristics when interface is in trunking mode
+
+077SWT012(config-if)#switchport trunk al
+077SWT012(config-if)#switchport trunk allowed vl
+077SWT012(config-if)#switchport trunk allowed vlan all
+077SWT012(config-if)#end
+077SWT012#
+Nov  9 11:53:26.467: %SYS-5-CONFIG_I: Configured from console by console
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#confif t
+               ^
+% Invalid input detected at '^' marker.
+
+077SWT012#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#inte
+077SWT012(config)#interface g1/0/24
+077SWT012(config-if)#shut
+077SWT012(config-if)#shutdown
+077SWT012(config-if)#no shut
+077SWT012(config-if)#no shutdown
+Nov  9 11:53:53.443: %LINK-5-CHANGED: Interface GigabitEthernet1/0/24, changed state to administratively down
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+Nov  9 11:53:57.092: %LINK-3-UPDOWN: Interface GigabitEthernet1/0/24, changed state to down
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#exit
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#
+077SWT012(config)#inter
+077SWT012(config)#interface gi1/0/23
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#swi
+077SWT012(config-if)#switchport mo
+077SWT012(config-if)#switchport mode ac
+077SWT012(config-if)#switchport mode access
+077SWT012(config-if)#swi
+077SWT012(config-if)#switchport acc
+077SWT012(config-if)#switchport access vl
+077SWT012(config-if)#switchport access vlan ?
+  <1-4094>  VLAN ID of the VLAN when this port is in access mode
+  dynamic   When in access mode, this interfaces VLAN is controlled by VMPS
+
+077SWT012(config-if)#switchport access vlan 2010
+%VTP VLAN configuration not allowed When device is in CLIENT mode.
+077SWT012(config-if)#vtp mo
+077SWT012(config-if)#end
+077SWT012#c
+Nov  9 11:54:58.123: %SYS-5-CONFIG_I: Configured from console by consoleonfi t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#vtp mo
+077SWT012(config)#vtp mode ?
+  client       Set the device to client mode.
+  off          Set the device to off mode.
+  server       Set the device to server mode.
+  transparent  Set the device to transparent mode.
+
+077SWT012(config)#vtp mode tras
+077SWT012(config)#vtp mode trans
+077SWT012(config)#vtp mode transparent ?
+  mst      Set the mode for MST VTP instance.
+  unknown  Set the mode for unknown VTP instances.
+  vlan     Set the mode for VLAN VTP instance.
+  <cr>
+
+077SWT012(config)#vtp mode transparent
+Setting device to VTP Transparent mode for VLANS.
+077SWT012(config)#inter
+077SWT012(config)#interface g1/0/23
+077SWT012(config-if)#swi
+077SWT012(config-if)#switchport ac
+077SWT012(config-if)#switchport access vl
+077SWT012(config-if)#switchport access vlan 2010
+% Access VLAN does not exist. Creating vlan 2010
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#
+077SWT012(config-if)#end
+077SWT012#show
+Nov  9 11:55:52.254: %SYS-5-CONFIG_I: Configured from console by consolevl
+077SWT012#show vlan n
+% Incomplete command.
+
+077SWT012#show vlan
+
+VLAN Name                             Status    Ports
+---- -------------------------------- --------- -------------------------------
+1    default                          active    Gi1/0/1, Gi1/0/2, Gi1/0/3
+                                                Gi1/0/4, Gi1/0/5, Gi1/0/6
+                                                Gi1/0/7, Gi1/0/8, Gi1/0/9
+                                                Gi1/0/10, Gi1/0/11, Gi1/0/12
+                                                Gi1/0/13, Gi1/0/14, Gi1/0/15
+                                                Gi1/0/16, Gi1/0/17, Gi1/0/18
+                                                Gi1/0/19, Gi1/0/20, Gi1/0/21
+                                                Gi1/0/22, Gi1/0/24, Gi1/0/25
+                                                Gi1/0/26, Gi1/0/27, Gi1/0/28
+10   VLAN0010                         active
+1002 fddi-default                     act/unsup
+1003 token-ring-default               act/unsup
+1004 fddinet-default                  act/unsup
+1005 trnet-default                    act/unsup
+2010 VLAN2010                         active    Gi1/0/23
+
+VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
+---- ----- ---------- ----- ------ ------ -------- ---- -------- ------ ------
+1    enet  100001     1500  -      -      -        -    -        0      0
+10   enet  100010     1500  -      -      -        -    -        0      0
+1002 fddi  101002     1500  -      -      -        -    -        0      0
+1003 tr    101003     1500  -      -      -        -    -        0      0
+1004 fdnet 101004     1500  -      -      -        ieee -        0      0
+1005 trnet 101005     1500  -      -      -        ibm  -        0      0
+
+077SWT012#
+077SWT012#
+077SWT012#show run
+077SWT012#show running-config
+Building configuration...
+
+Current configuration : 2066 bytes
+!
+! Last configuration change at 11:55:52 UTC Tue Nov 9 2021
+! NVRAM config last updated at 11:49:36 UTC Tue Nov 9 2021
+!
+version 15.0
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname 077SWT012
+!
+boot-start-marker
+boot-end-marker
+!
+!
+username admin privilege 15 secret 5 $1$HJoJ$GK72HegTebWOw0xkua5h4/
+no aaa new-model
+switch 1 provision ws-c2960x-24ps-l
+!
+!
+no ip domain-lookup
+ip domain-name positivo.local
+vtp mode transparent
+!
+!
+!
+!
+spanning-tree mode rapid-pvst
+spanning-tree extend system-id
+!
+!
+!
+!
+!
+!
+vlan internal allocation policy ascending
+!
+vlan 10,2010
+!
+ip ssh version 2
+lldp run
+!
+!
+!
+!
+!
+interface FastEthernet0
+ no ip address
+ shutdown
+!
+interface GigabitEthernet1/0/1
+!
+interface GigabitEthernet1/0/2
+!
+interface GigabitEthernet1/0/3
+!
+interface GigabitEthernet1/0/4
+!
+interface GigabitEthernet1/0/5
+!
+interface GigabitEthernet1/0/6
+!
+interface GigabitEthernet1/0/7
+!
+interface GigabitEthernet1/0/8
+!
+interface GigabitEthernet1/0/9
+!
+interface GigabitEthernet1/0/10
+!
+interface GigabitEthernet1/0/11
+!
+interface GigabitEthernet1/0/12
+!
+interface GigabitEthernet1/0/13
+!
+interface GigabitEthernet1/0/14
+!
+interface GigabitEthernet1/0/15
+!
+interface GigabitEthernet1/0/16
+!
+interface GigabitEthernet1/0/17
+!
+interface GigabitEthernet1/0/18
+!
+interface GigabitEthernet1/0/19
+!
+interface GigabitEthernet1/0/20
+!
+interface GigabitEthernet1/0/21
+!
+interface GigabitEthernet1/0/22
+!
+interface GigabitEthernet1/0/23
+ switchport access vlan 2010
+ switchport mode access
+!
+interface GigabitEthernet1/0/24
+ switchport mode trunk
+!
+interface GigabitEthernet1/0/25
+!
+interface GigabitEthernet1/0/26
+!
+interface GigabitEthernet1/0/27
+!
+interface GigabitEthernet1/0/28
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+interface Vlan2010
+ ip address 172.25.158.141 255.255.255.192
+!
+ip default-gateway 172.25.158.129
+no ip http server
+no ip http secure-server
+!
+!
+!
+!
+line con 0
+line vty 0 4
+ login local
+ transport input all
+line vty 5 15
+ login local
+ transport input all
+!
+end
+
+077SWT012#config t
+Enter configuration commands, one per line.  End with CNTL/Z.
+077SWT012(config)#inter
+077SWT012(config)#interface gi1/0/23
+077SWT012(config-if)#shu
+077SWT012(config-if)#shutdown
+077SWT012(config-if)#no shu
+077SWT012(config-if)#no shutdown
+077SWT012(config-if)#
+Nov  9 11:57:24.693: %LINK-5-CHANGED: Interface GigabitEthernet1/0/23, changed state to administratively downend
+077SWT012#
+Nov  9 11:57:27.195: %SYS-5-CONFIG_I: Configured from console by console
+Nov  9 11:57:27.751: %LINK-3-UPDOWN: Interface GigabitEthernet1/0/23, changed state to downwr
+Building configuration...
+[OK]
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+077SWT012#
+Nov  9 12:00:06.925: %LINK-3-UPDOWN: Interface GigabitEthernet1/0/23, changed state to up
+Nov  9 12:00:07.928: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0/23, changed state to up
+077SWT012#
+Nov  9 12:00:34.936: %LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan2010, changed state to up
+077SWT012#
+Nov  9 12:06:41.077: %LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan2010, changed state to down
+Nov  9 12:06:42.070: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0/23, changed state to down
+Nov  9 12:06:43.077: %LINK-3-UPDOWN: Interface GigabitEthernet1/0/23, changed state to down
+Nov  9 12:06:46.153: %LINK-3-UPDOWN: Interface GigabitEthernet1/0/23, changed state to up
+Nov  9 12:06:47.152: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet1/0/23, changed state to up
+Nov  9 12:07:14.164: %LINEPROTO-5-UPDOWN: Line protocol on Interface Vlan2010, changed state to up

@@ -1,0 +1,2 @@
+Mostrar o IP do servidor NTP
+show ntp associations

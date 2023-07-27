@@ -1,0 +1,8 @@
+Mostras os contadores de erros
+show interfaces counters
+
+Ver tráfego de pacotes
+sh int summary
+
+Mostrar histórico de pacotes (funcionamento ou não da porta)
+sh int stats

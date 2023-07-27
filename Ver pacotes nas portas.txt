@@ -1,0 +1,4 @@
+Mostra as taxas de transferência dos pacotes
+show interface accounting
+
+show interface summary

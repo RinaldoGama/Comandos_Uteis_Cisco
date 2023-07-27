@@ -1,0 +1,16 @@
+Usando a VLAN de dados 10 como exemplo
+switchport access vlan 10
+
+Na VLAN 20 que é de voz utilizamos o comando 
+switchport voice vlan 20
+
+
+SW-DlteC-Rack-01(config-if)#switchport mode ?      
+  access   Set trunking mode to ACCESS unconditionally
+  dynamic  Set trunking mode to dynamically negotiate access or trunk mode
+  trunk    Set trunking mode to TRUNK unconditionally
+
+SW-DlteC-Rack-01(config-if)#switchport mode access 
+SW-DlteC-Rack-01(config-if)#switchport access vlan 10
+SW-DlteC-Rack-01(config-if)#switchport voice vlan 20
+SW-DlteC-Rack-01(config-if)#end

@@ -1,0 +1,26 @@
+Definindo Hostname:
+Hostname 077SWT012
+
+Definindo User e Senha
+username admin privilege 15 secret 5 $1$HJoJ$GK72HegTebWOw0xkua5h4/
+
+
+no ip domain-lookup
+ip domain-name positivo.local
+
+
+
+Evitar que tenha loop no SW
+spanning-tree mode rapid-pvst
+spanning-tree extend system-id
+
+
+ip ssh version 2
+lldp run
+
+
+Setando IP
+ip default-gateway 172.25.158.129
+no ip http server
+no ip http secure-server
+

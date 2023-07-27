@@ -1,0 +1,11 @@
+Verifica os ranges de IP de cada rede
+show ip dhcp pool
+
+Verificar os IP's que foram usados
+sh ip arp vlan 2050
+
+Ver IP's conectados 
+show ip dhcp binding
+
+Verificação completa 
+show ip dhcp client interface

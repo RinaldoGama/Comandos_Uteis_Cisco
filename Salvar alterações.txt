@@ -1,0 +1,9 @@
+write memory
+
+Ou 
+
+wr
+
+Ou 
+
+copy running-config startup-config

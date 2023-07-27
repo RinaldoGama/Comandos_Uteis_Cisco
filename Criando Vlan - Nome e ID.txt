@@ -1,0 +1,8 @@
+SW-DlteC-Rack-01#conf t
+Enter configuration commands, one per line. End with CNTL/Z.
+SW-DlteC-Rack-01(config)#vlan 10
+SW-DlteC-Rack-01(config-vlan)#name Dados
+SW-DlteC-Rack-01(config-vlan)#vlan 20
+SW-DlteC-Rack-01(config-vlan)#name Voz
+SW-DlteC-Rack-01(config-vlan)#end
+SW-DlteC-Rack-01#

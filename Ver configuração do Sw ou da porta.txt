@@ -1,0 +1,8 @@
+Ver configurações de todas as portas
+show running-configuration
+
+Ver configuração de uma porta em específico 
+show running-configuration interface FastEthernet 1/0/15
+
+Ver configuração de uma porta e a vlan nativa
+show interface fastethernet 0/1 switchport

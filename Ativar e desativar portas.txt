@@ -1,0 +1,9 @@
+Ativando porta:
+conf t
+interface fastEthernet 0/15
+no shut
+
+Desativando porta:
+conf t
+interface fastEthernet 0/15
+shut
